@@ -1,6 +1,6 @@
 /* Offline caching is deliberately limited to public menu assets.
    DO NOT cache Google Apps Script responses or customer information. */
-const CACHE_NAME = 'committee-hub-static-v1';
+const CACHE_NAME = 'committee-hub-static-v2';
 const MENU_ASSETS = [
   './', './index.html', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png',
